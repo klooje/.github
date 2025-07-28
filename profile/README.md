@@ -16,7 +16,7 @@
 - Connect to VPN
 
 **Installation:**
-1. Clone node (api) repository
+1. Clone node (api) and client repository
 2. Connect to VPN
 3. Start API: `npm run dev` (port 3000)
 4. For client development: `npm start` in client folder (port 3001)
