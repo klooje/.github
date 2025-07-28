@@ -11,9 +11,9 @@
 🧙 Take care of data like a wizard with klooje!
 
 **Getting Started:**
+To install you need to clone the node (api) repository
+1. Connect to VPN (for DocumentDB access)
+2. `npm run dev` to start the API on port 3000
+3. Use the production client at https://test.klooje.belieflab.yale.edu/home
 
-To install you need to clone both node (api) and client
-
-```npm run dev``` to start the api over port 80
-
-```npm run start``` to start the client over port 3000
+The client connects to your local API for development/testing.
